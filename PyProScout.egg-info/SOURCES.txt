@@ -1,0 +1,13 @@
+setup.py
+PyProScout.egg-info/PKG-INFO
+PyProScout.egg-info/SOURCES.txt
+PyProScout.egg-info/dependency_links.txt
+PyProScout.egg-info/top_level.txt
+proscout/__init__.py
+proscout/Programs/PlayerComparison.py
+proscout/Programs/__init__.py
+proscout/python_api/__init__.py
+proscout/python_api/analyze_tools.py
+proscout/tools/__init__.py
+proscout/tools/player.py
+proscout/tools/team.py
